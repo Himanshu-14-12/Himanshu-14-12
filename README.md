@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m interested in App Development, Frontend Web Development, Machine Learning and NLP
 - 👯  I’m looking to collaborate on Open source and a lot on development side
 - ✨ I’m proficient in C, C++, Python, Flutter, HTML, CSS, JavaScript
-- 🤝: Let's get in touch
+- 🤝: Let's connect
 <br><br><a href="https://www.linkedin.com/in/himanshu-parganiha-2a308a203/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_64x64.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="mailto:parganiha.himanshu@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
