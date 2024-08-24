@@ -43,4 +43,5 @@ Here are some ideas to get you started:
 -  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Himanshu-14-12&label=Profile%20views&color=0e75b6&style=flat" alt="Himanshu-14-12" /> </p>
 
 <img width="38%" img src="https://github-readme-stats.vercel.app/api?username=Himanshu-14-12&theme=radical&show_icons=true">
-<img width="38%" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-14-12&theme=radical&show_icons=true" />
+<img width="38%" img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu-14-12&theme=radical&show_icons=true" />
+<img width="38%" img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu-14-12&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40">
