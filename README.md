@@ -17,8 +17,8 @@ Here are some ideas to get you started:
                       [mail](mailto:parganiha.himanshu@gmail.com)
 -->
 
-- 🔭 I’m currently a Final Year student at IIT Ropar, with interest in Development and Machine Learning
-- 🌱 I’m interested in App Development, Frontend Web Development, Machine Learning and NLP
+- 🔭 I’m a B.Tech graduate from IIT Ropar. Currently working as a Data Scientist.
+- 🌱 I’m interested in App Development, Machine Learning, Agentic AI and NLP
 - 👯  I’m looking to collaborate on Open source and a lot on development side
 - ✨ I’m proficient in C, C++, Python, Flutter, HTML, CSS, JavaScript
 - 🤝: Let's connect
